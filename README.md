@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amretapandey
+- 👋 Hi, I’m Amrita
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Scala and Apache Spark
 - 📫 Reach me on my mail: amritapandey@outlook.in 
